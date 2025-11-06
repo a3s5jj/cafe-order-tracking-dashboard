@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Orders Dashboard
 <p align="center">
-  <img src="dashboard_preview.png" alt="Coffee Shop Orders Dashboard Preview" width="800">
+  <img src="dashboard.png" alt="Coffee Shop Orders Dashboard Preview" width="800">
 </p>
 
 An interactive **Excel dashboard** designed to analyze and visualize **coffee shop order data**.  
