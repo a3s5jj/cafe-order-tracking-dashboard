@@ -1,4 +1,7 @@
 # ☕ Coffee Shop Orders Dashboard
+<p align="center">
+  <img src="dashboard_preview.png" alt="Coffee Shop Orders Dashboard Preview" width="800">
+</p>
 
 An interactive **Excel dashboard** designed to analyze and visualize **coffee shop order data**.  
 It provides insights into **sales trends, product performance, and order distribution** across time periods.  
