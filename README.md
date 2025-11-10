@@ -42,3 +42,9 @@ This project showcases how Excel can be used to transform raw sales data into me
 - Identify top-selling drinks and categories  
 - Recognize peak business hours  
 - Track order patterns and sales growth over time
+
+---
+
+- ## 📬 Contact
+
+For questions or collaboration, reach out at [aljohncompendio@gmail.com]
