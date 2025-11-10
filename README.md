@@ -45,6 +45,6 @@ This project showcases how Excel can be used to transform raw sales data into me
 
 ---
 
-- ## 📬 Contact
+## 📬 Contact
 
 For questions or collaboration, reach out at [aljohncompendio@gmail.com]
